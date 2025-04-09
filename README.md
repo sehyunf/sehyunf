@@ -10,4 +10,8 @@
   </a>
 </div>
 
+<div>
+  <span>Blog : </span><a href="https://sehyunf.tistory.com/">https://sehyunf.tistory.com/</a>
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
